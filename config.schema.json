@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "RpiRfLight",
   "pluginType": "platform",
   "singular": true,
   "schema": {
