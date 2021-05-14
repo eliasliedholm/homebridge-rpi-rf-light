@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "displayName": "Rpi-RF Light",
   "name": "homebridge-rpi-rf-light",
   "version": "0.0.1",
